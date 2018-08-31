@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actuator-service.iml" filepath="$PROJECT_DIR$/actuator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actuator-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/actuator-service_main.iml" group="actuator-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actuator-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/actuator-service_test.iml" group="actuator-service" />
+    </modules>
+  </component>
+</project>
